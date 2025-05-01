@@ -12,7 +12,7 @@ const home = () => {
                where precision meets compassion in pathology excellence."</p>
           <div className='homeBtn'> 
             
-            <a className='homeBtnSec' href="https://dekhne-pathology-labv2.vercel.app/">Login</a> 
+            <a className='homeBtnSec' href="https://dekhne-pathology-labv2-n0m6ydewi-sumeet-ais-projects.vercel.app/">Login</a> 
           </div>
         </div>
           <div className='homeRightContent'> 
